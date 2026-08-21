@@ -1,0 +1,4 @@
+venv/
+weather.db
+logs/
+__pycache__/
